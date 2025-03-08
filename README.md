@@ -124,11 +124,4 @@ Siga as instruções interativas para manipular o grafo.
 - Permitir a leitura de grafos a partir de arquivos.
 - Adicionar funcionalidades como cálculo do caminho mínimo (Dijkstra) e árvore geradora mínima (Kruskal/Prim).
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a **MIT License**.
 
